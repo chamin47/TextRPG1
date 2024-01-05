@@ -1,0 +1,14 @@
+D:\TeamSparta\TextRPG1\TextRPG1\bin\Debug\net6.0\TextRPG1.exe
+D:\TeamSparta\TextRPG1\TextRPG1\bin\Debug\net6.0\TextRPG1.deps.json
+D:\TeamSparta\TextRPG1\TextRPG1\bin\Debug\net6.0\TextRPG1.runtimeconfig.json
+D:\TeamSparta\TextRPG1\TextRPG1\bin\Debug\net6.0\TextRPG1.dll
+D:\TeamSparta\TextRPG1\TextRPG1\bin\Debug\net6.0\TextRPG1.pdb
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.AssemblyInfoInputs.cache
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.AssemblyInfo.cs
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.csproj.CoreCompileInputs.cache
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.dll
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\refint\TextRPG1.dll
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.pdb
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\TextRPG1.genruntimeconfig.cache
+D:\TeamSparta\TextRPG1\TextRPG1\obj\Debug\net6.0\ref\TextRPG1.dll
